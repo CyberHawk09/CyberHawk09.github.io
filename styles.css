@@ -1,0 +1,12 @@
+*{
+    background-color: black;
+    font-family:'Courier New', Courier, monospace;
+}
+
+body {
+    color: white;
+}
+
+p {
+    font-size: 20px;
+}
